@@ -2,6 +2,6 @@
 
 export default (req, res) => {
   res.status(200).json({ Result:{
-    Message: "Richiesta da standingwolvesstudio.com: FORZA NAPOLI"
+    Message: "Richiesta da standingwolvesstudio.com: FORZA NAPOLI!"
   } })
 }
